@@ -1,5 +1,5 @@
 <div align="center">
-    <img src='banner.png' style="border-radius: 15px">
+    <img src='banner.jpg' style="border-radius: 15px">
 </div>
 <br>
 
@@ -44,7 +44,7 @@ I am a student of master in data science at the University of Chile. I live in S
 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 
 Data Science and Machine Learning Frameworks
